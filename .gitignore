@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environments and editor files
+.venv/
+venv/
+env/
+.env
+.vscode/
+.idea/
+
+# Data, model artifacts, and experiment outputs
+data/
+raw_data/
+results/
+outputs/
+artifacts/
+checkpoints/
+models/
+*.pkl
+*.pickle
+*.npz
+*.npy
+*.pt
+*.pth
+*.parquet
+*.feather
+*.h5
+*.hdf5
+
+# Large or generated archives
+*.zip
+*.7z
+*.tar
+*.tar.gz
+
+# OS files
+.DS_Store
+Thumbs.db

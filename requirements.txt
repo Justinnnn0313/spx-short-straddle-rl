@@ -1,0 +1,9 @@
+# Runtime environment: Python 3.11
+numpy==1.26.4
+pandas==2.3.3
+pyarrow==20.0.0
+gymnasium==0.28.1
+matplotlib==3.11.0
+ray[default,rllib]==2.10.0
+torch==2.3.1
+pywin32==312
